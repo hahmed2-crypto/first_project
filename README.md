@@ -1,2 +1,1 @@
-This is my readme file that i cloned from online.
-
+Read file that i cloned to the terminal.
